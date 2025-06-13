@@ -1,0 +1,2 @@
+# Course-Enrollment-System-C-
+A comprehensive university course registration system built in C++ that manages student enrollments, prerequisites, and capacity lmits. Features include student/course management, prerequisite validation, waitlist processing, and conflict-free time slots. Implements enrollment,drop functionality with waitlist promotion. Uses data structures and OOP
